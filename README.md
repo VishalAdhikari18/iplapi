@@ -1,4 +1,4 @@
-# IPL Players Management API
+# IPL API
 
 A RESTful API for managing IPL players built with Node.js, Express, and MongoDB.
 
@@ -101,8 +101,7 @@ This will return all players whose names contain "kohli", for example "Virat Koh
       "image": "https://example.com/player.jpg",
       "role": "Batsman",
       "team": "Team Name"
-    },
-    // More players...
+    }
   ]
 }
 ```
