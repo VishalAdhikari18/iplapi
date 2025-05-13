@@ -19,9 +19,7 @@ A RESTful API for managing IPL players built with Node.js, Express, and MongoDB.
    ```
 3. Create a `.env` file in the root directory with the following variables:
    ```
-   PORT=3000
-   MONGODB_URI=mongodb://localhost:27017/iplapi
-   ```
+   
 4. Start the server:
    ```
    npm run dev
